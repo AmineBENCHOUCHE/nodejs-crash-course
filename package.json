@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "Node js crash course 2024",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env fsDemo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
